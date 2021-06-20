@@ -70,7 +70,7 @@ $products=$queryString->fetchAll(PDO::FETCH_CLASS,'Product');
         </form>
 
 
-        <h6><a href="deletedproducts.php">Show Deleted Products</a></h6>
+        <h6><a href="deletedProducts.php">Show Deleted Products</a></h6>
         <table class="table table-success table-striped">
             <thead>
             <tr>
